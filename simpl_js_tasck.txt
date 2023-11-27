@@ -1,0 +1,4 @@
+
+https://html-plus.in.ua/javascript-simple-tasks/#variables-dialog
+
+Задача 1. Даны переменные a, b, c, объявленные следующим способом:
